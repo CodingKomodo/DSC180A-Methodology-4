@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Ethan Cao
-etcao@ucsd.edu
+Ethan Cao and Yiting Bu
